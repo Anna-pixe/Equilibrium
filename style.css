@@ -1,0 +1,122 @@
+
+
+body {
+  height: 650px;
+  width: 350px;
+  border-radius: 15px;
+  background-color: #15263F;
+  margin: auto;
+  
+
+}
+
+.head-image {
+  width: 302px;
+  height: 302px;
+  border-radius: 8px;
+  padding: 24px 24px 24px 24px;
+}
+
+.head-image img {
+  width: 100%;
+  height: 100%;
+  border-radius: 8px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  padding: 24px 24px 16px 24px;
+}
+
+h1 {
+  width: 302px;
+  height: 28px;
+  font-family: "outfit";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 28px;
+  color: #FFFFFF;
+}
+
+p {
+  width: 302px;
+  height: 52px;
+  font-family: "outfit";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 26px;
+  color: #8BACD9;
+}
+
+.ethereum1 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+
+.ethereum{
+  display: flex;
+  align-items: center;
+}
+
+.container-text {
+  width: 75px;
+  height: 20px;
+  font-family: "outfit";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  margin: 6px;
+  color: #00FFF8;
+}
+
+.days-left {
+  display: flex;
+  align-items: center;
+}
+
+.days-left-element {
+  width: 73px;
+  height: 20px;
+  font-family: "outfit";
+  color: #8BACD9;
+}
+
+hr {
+  width: 302px;
+  height: 1px;
+  color: #2E405A;
+  display: flex;
+}
+
+.elements-container {
+  display: flex;
+  align-items: center;
+  padding: 16px 0px 24px 24px;
+  gap:15px;
+}
+
+.round-image img {
+  width: 33px;
+  height: 33px;
+}
+
+.creation-text {
+  width: 81px;
+  height: 20px;
+  font-family: "outfit";
+  color: #8BACD9;
+}
+
+.jules-text {
+  width: 93px;
+  height: 20px;
+  font-family: "outfit";
+  color: #FFFFFF;
+}
+ 
